@@ -1,0 +1,19 @@
+name= input("whats your name? ")
+print ("Hi", name)
+print ()
+day= input ("whats the day of the week? ")
+print ()
+if day == "Monday" or day == "monday":
+  print ("Its the start of an amazing week! You got this!")
+if day == "Tuesday" or day == "tuesday":
+  print ("Today is", name+"'s day! You are the sun!")
+if day == "Wednesday" or day == "wednesday":
+  print("HUMP DAYYYYYYY")
+if day == "Thursday" or day == "thursday":
+  print ("Thursday is the day to reset your energy! PLus the weeks about to be over!")
+if day == "Friday" or day == "friday":
+  print("It's friday friday gotta get down for friday everybodys looking foward to the weekend!")
+if day == "Saturday" or day == "saturday":
+  print("relax. relax. relax. todays your day to focus on yourself! enjoy it!")
+if day == "Sunday" or day == "sunday":
+  print("Congrat's! You made it through another week!")
